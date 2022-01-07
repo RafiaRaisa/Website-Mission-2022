@@ -34,3 +34,62 @@ text-decoration: none;
 .image{
     margin-top:0%;
 }
+.section-1-outside{
+    text-align: center;
+}
+.section-2{
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Source Serif 4', sans-serif;
+    background-image:url() ;
+    
+}
+   
+
+.section-2 h1{
+    text-align: center;
+    color: #13103A;
+    font-size: 40px;
+}
+
+.box-section{
+    display: flex;
+}
+
+.box-model{
+    width: 32%;
+    background-color: #ddd;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.box-model img{
+    width: 50%;
+  
+}
+.box-model h3{
+    font-size: 28px;
+    padding-left: 7px;
+    font-family: 'Lato', sans-serif;
+}
+
+.box-model p{
+    padding: 15px;
+    font-family: 'Lato', sans-serif;
+}
+
+#box-1{
+    background-color:palegreen;
+
+}
+#box-2{
+    background-color:plum;
+}
+
+#box-3{
+    background-color:slateblue;
+}
+
+
+
