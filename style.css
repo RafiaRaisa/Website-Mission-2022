@@ -124,7 +124,30 @@ text-decoration: none;
     background-size: cover;
    
 }
+.section-4{
+    display: flex;
+    width: 80%;
+    margin:150px auto;
+    font-family: 'Lato', sans-serif;
+    
 
+}
+.section-4-div{
+    width: 50%;
+
+  
+}
+.section-4-div img{
+    width: 60%;
+    padding-left: 40%;
+}
+
+.section-4-div h1{
+    font-size: 35px;
+}
+.section-4-div p{
+    color:rgb(80, 75, 75);
+}
 
 
 
